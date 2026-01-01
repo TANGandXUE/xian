@@ -1,0 +1,893 @@
+[
+  {
+    "id": "user_001",
+    "nickname": "用户001",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=user_001",
+    "personaType": "extreme_emp",
+    "watchHistory": [
+      {
+        "videoId": "video_7222",
+        "category": "社会议题",
+        "watchPercent": 0.25,
+        "duration": 50,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-09T01:06:30.771Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_2058",
+        "category": "音乐MV",
+        "watchPercent": 0.82,
+        "duration": 416,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-20T15:21:50.955Z",
+        "isNightWatch": false,
+        "comment": "啊这"
+      },
+      {
+        "videoId": "video_1210",
+        "category": "游戏直播",
+        "watchPercent": 0.46,
+        "duration": 10,
+        "liked": true,
+        "commented": false,
+        "watchedAt": "2025-12-27T05:56:42.162Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_8007",
+        "category": "游戏直播",
+        "watchPercent": 0.75,
+        "duration": 11,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-31T16:25:51.585Z",
+        "isNightWatch": true,
+        "comment": "不就是..."
+      }
+    ],
+    "createdAt": "2025-08-15T03:07:40.549Z",
+    "_meta": {
+      "isNewUser": true,
+      "isSilentUser": false,
+      "isActiveUser": false,
+      "isSinglePref": false,
+      "isNightOwl": false
+    }
+  },
+  {
+    "id": "user_002",
+    "nickname": "用户002",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=user_002",
+    "personaType": "cog_emp",
+    "watchHistory": [
+      {
+        "videoId": "video_7450",
+        "category": "教程技能",
+        "watchPercent": 0.21,
+        "duration": 167,
+        "liked": true,
+        "commented": false,
+        "watchedAt": "2025-12-19T05:10:46.373Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_9011",
+        "category": "新闻资讯",
+        "watchPercent": 0.65,
+        "duration": 159,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-22T05:08:14.203Z",
+        "isNightWatch": false,
+        "comment": "纯纯浪费流量"
+      },
+      {
+        "videoId": "video_5216",
+        "category": "知识科普",
+        "watchPercent": 0.15,
+        "duration": 15,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-23T04:05:14.597Z",
+        "isNightWatch": false,
+        "comment": "？"
+      },
+      {
+        "videoId": "video_4308",
+        "category": "美食探店",
+        "watchPercent": 0.69,
+        "duration": 38,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-30T10:26:09.492Z",
+        "isNightWatch": false,
+        "comment": "好吃是好吃就是胖10斤"
+      },
+      {
+        "videoId": "video_3872",
+        "category": "知识科普",
+        "watchPercent": 0.93,
+        "duration": 54,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-31T23:06:40.621Z",
+        "isNightWatch": false,
+        "comment": "假的吧"
+      }
+    ],
+    "createdAt": "2025-09-13T03:07:40.549Z",
+    "_meta": {
+      "isNewUser": true,
+      "isSilentUser": false,
+      "isActiveUser": false,
+      "isSinglePref": false,
+      "isNightOwl": false
+    }
+  },
+  {
+    "id": "user_003",
+    "nickname": "用户003",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=user_003",
+    "personaType": "cognition",
+    "watchHistory": [
+      {
+        "videoId": "video_2070",
+        "category": "社会议题",
+        "watchPercent": 0.47,
+        "duration": 41,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-06T05:18:36.350Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_9790",
+        "category": "教程技能",
+        "watchPercent": 0.45,
+        "duration": 18,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-11T12:24:40.572Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_4393",
+        "category": "音乐MV",
+        "watchPercent": 0.28,
+        "duration": 72,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-11T13:13:47.817Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_5857",
+        "category": "知识科普",
+        "watchPercent": 0.74,
+        "duration": 28,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-14T21:29:21.451Z",
+        "isNightWatch": true
+      },
+      {
+        "videoId": "video_6560",
+        "category": "教程技能",
+        "watchPercent": 0.31,
+        "duration": 89,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-15T13:27:01.458Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_9774",
+        "category": "游戏直播",
+        "watchPercent": 0.46,
+        "duration": 37,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-18T13:51:06.618Z",
+        "isNightWatch": false
+      }
+    ],
+    "createdAt": "2025-04-02T03:07:40.549Z",
+    "_meta": {
+      "isNewUser": false,
+      "isSilentUser": true,
+      "isActiveUser": false,
+      "isSinglePref": false,
+      "isNightOwl": false
+    }
+  },
+  {
+    "id": "user_004",
+    "nickname": "用户004",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=user_004",
+    "personaType": "cog_ple",
+    "watchHistory": [
+      {
+        "videoId": "video_1376",
+        "category": "搞笑段子",
+        "watchPercent": 0.5,
+        "duration": 161,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-06T16:47:41.192Z",
+        "isNightWatch": true
+      },
+      {
+        "videoId": "video_892",
+        "category": "励志鸡汤",
+        "watchPercent": 0.43,
+        "duration": 27,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-08T19:17:49.632Z",
+        "isNightWatch": true
+      },
+      {
+        "videoId": "video_4675",
+        "category": "搞笑段子",
+        "watchPercent": 0.2,
+        "duration": 10,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-17T12:55:35.348Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_6542",
+        "category": "教程技能",
+        "watchPercent": 0.88,
+        "duration": 43,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-17T15:45:20.597Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_6466",
+        "category": "宠物萌宠",
+        "watchPercent": 0.49,
+        "duration": 51,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-21T15:54:22.376Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_6642",
+        "category": "教程技能",
+        "watchPercent": 0.58,
+        "duration": 60,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-22T22:51:46.105Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_2049",
+        "category": "社会议题",
+        "watchPercent": 0.74,
+        "duration": 25,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-30T11:26:43.954Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_282",
+        "category": "教程技能",
+        "watchPercent": 0.97,
+        "duration": 41,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2026-01-01T03:16:35.316Z",
+        "isNightWatch": false
+      }
+    ],
+    "createdAt": "2025-10-10T03:07:40.549Z",
+    "_meta": {
+      "isNewUser": false,
+      "isSilentUser": true,
+      "isActiveUser": false,
+      "isSinglePref": false,
+      "isNightOwl": false
+    }
+  },
+  {
+    "id": "user_005",
+    "nickname": "用户005",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=user_005",
+    "personaType": "balanced",
+    "watchHistory": [
+      {
+        "videoId": "video_1331",
+        "category": "知识科普",
+        "watchPercent": 0.96,
+        "duration": 50,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-09T00:55:11.150Z",
+        "isNightWatch": false,
+        "comment": "绷"
+      },
+      {
+        "videoId": "video_4804",
+        "category": "励志鸡汤",
+        "watchPercent": 0.45,
+        "duration": 49,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-10T17:11:27.761Z",
+        "isNightWatch": true,
+        "comment": "转发了"
+      },
+      {
+        "videoId": "video_1241",
+        "category": "游戏直播",
+        "watchPercent": 0.33,
+        "duration": 25,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-11T22:40:37.867Z",
+        "isNightWatch": false,
+        "comment": "眼界打开"
+      },
+      {
+        "videoId": "video_7275",
+        "category": "宠物萌宠",
+        "watchPercent": 0.88,
+        "duration": 57,
+        "liked": true,
+        "commented": true,
+        "watchedAt": "2025-12-14T04:47:38.591Z",
+        "isNightWatch": false,
+        "comment": "我选择死亡"
+      },
+      {
+        "videoId": "video_6836",
+        "category": "知识科普",
+        "watchPercent": 0.98,
+        "duration": 55,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-14T15:20:15.472Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_8989",
+        "category": "音乐MV",
+        "watchPercent": 0.58,
+        "duration": 77,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-30T12:30:06.720Z",
+        "isNightWatch": false
+      }
+    ],
+    "createdAt": "2025-06-02T03:07:40.550Z",
+    "_meta": {
+      "isNewUser": false,
+      "isSilentUser": false,
+      "isActiveUser": true,
+      "isSinglePref": false,
+      "isNightOwl": false
+    }
+  },
+  {
+    "id": "user_006",
+    "nickname": "用户006",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=user_006",
+    "personaType": "empathy",
+    "watchHistory": [
+      {
+        "videoId": "video_5226",
+        "category": "搞笑段子",
+        "watchPercent": 0.11,
+        "duration": 143,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-12T12:09:23.034Z",
+        "isNightWatch": false,
+        "comment": "绷不住了"
+      },
+      {
+        "videoId": "video_1176",
+        "category": "游戏直播",
+        "watchPercent": 0.24,
+        "duration": 103,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-16T11:10:41.469Z",
+        "isNightWatch": false,
+        "comment": "演的"
+      },
+      {
+        "videoId": "video_2575",
+        "category": "励志鸡汤",
+        "watchPercent": 0.65,
+        "duration": 11,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-23T10:59:13.579Z",
+        "isNightWatch": false,
+        "comment": "又到了每日喝鸡汤的时间"
+      },
+      {
+        "videoId": "video_8483",
+        "category": "情感故事",
+        "watchPercent": 0.46,
+        "duration": 10,
+        "liked": true,
+        "commented": false,
+        "watchedAt": "2025-12-27T04:22:29.412Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_2458",
+        "category": "音乐MV",
+        "watchPercent": 0.94,
+        "duration": 23,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-28T06:51:20.052Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_8867",
+        "category": "音乐MV",
+        "watchPercent": 0.2,
+        "duration": 43,
+        "liked": true,
+        "commented": true,
+        "watchedAt": "2025-12-31T12:48:25.204Z",
+        "isNightWatch": false,
+        "comment": "歌名歌名歌名"
+      }
+    ],
+    "createdAt": "2025-06-23T03:07:40.550Z",
+    "_meta": {
+      "isNewUser": false,
+      "isSilentUser": false,
+      "isActiveUser": true,
+      "isSinglePref": false,
+      "isNightOwl": false
+    }
+  },
+  {
+    "id": "user_007",
+    "nickname": "用户007",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=user_007",
+    "personaType": "extreme_ple",
+    "watchHistory": [
+      {
+        "videoId": "video_5988",
+        "category": "搞笑段子",
+        "watchPercent": 0.97,
+        "duration": 56,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-04T04:27:06.055Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_5513",
+        "category": "搞笑段子",
+        "watchPercent": 0.35,
+        "duration": 29,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-04T06:01:52.156Z",
+        "isNightWatch": false,
+        "comment": "下一个"
+      },
+      {
+        "videoId": "video_056",
+        "category": "搞笑段子",
+        "watchPercent": 0.94,
+        "duration": 167,
+        "liked": true,
+        "commented": true,
+        "watchedAt": "2025-12-05T12:46:08.857Z",
+        "isNightWatch": false,
+        "comment": "差不多得了"
+      },
+      {
+        "videoId": "video_9025",
+        "category": "搞笑段子",
+        "watchPercent": 0.83,
+        "duration": 33,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-08T12:59:31.748Z",
+        "isNightWatch": false,
+        "comment": "绷不住了"
+      },
+      {
+        "videoId": "video_9526",
+        "category": "搞笑段子",
+        "watchPercent": 0.96,
+        "duration": 24,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-10T15:53:53.407Z",
+        "isNightWatch": false,
+        "comment": "下一个"
+      },
+      {
+        "videoId": "video_6534",
+        "category": "搞笑段子",
+        "watchPercent": 0.53,
+        "duration": 5,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-27T14:26:56.349Z",
+        "isNightWatch": false,
+        "comment": "哈哈哈哈哈"
+      },
+      {
+        "videoId": "video_4526",
+        "category": "搞笑段子",
+        "watchPercent": 0.81,
+        "duration": 30,
+        "liked": true,
+        "commented": false,
+        "watchedAt": "2025-12-28T14:19:56.467Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_5705",
+        "category": "搞笑段子",
+        "watchPercent": 0.61,
+        "duration": 115,
+        "liked": true,
+        "commented": true,
+        "watchedAt": "2025-12-31T05:13:22.218Z",
+        "isNightWatch": false,
+        "comment": "假"
+      }
+    ],
+    "createdAt": "2025-10-23T03:07:40.550Z",
+    "_meta": {
+      "isNewUser": false,
+      "isSilentUser": false,
+      "isActiveUser": false,
+      "isSinglePref": true,
+      "isNightOwl": false
+    }
+  },
+  {
+    "id": "user_008",
+    "nickname": "用户008",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=user_008",
+    "personaType": "extreme_cog",
+    "watchHistory": [
+      {
+        "videoId": "video_1896",
+        "category": "知识科普",
+        "watchPercent": 0.84,
+        "duration": 16,
+        "liked": true,
+        "commented": true,
+        "watchedAt": "2025-12-02T07:19:36.835Z",
+        "isNightWatch": false,
+        "comment": "蚌埠住了"
+      },
+      {
+        "videoId": "video_2570",
+        "category": "知识科普",
+        "watchPercent": 0.46,
+        "duration": 50,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-04T11:53:08.499Z",
+        "isNightWatch": false,
+        "comment": "不许发了（已收藏点赞关注）"
+      },
+      {
+        "videoId": "video_526",
+        "category": "知识科普",
+        "watchPercent": 0.72,
+        "duration": 15,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-08T14:06:51.510Z",
+        "isNightWatch": false,
+        "comment": "我看不懂但我大受震撼"
+      },
+      {
+        "videoId": "video_5092",
+        "category": "知识科普",
+        "watchPercent": 0.34,
+        "duration": 48,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-18T15:09:40.885Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_3521",
+        "category": "知识科普",
+        "watchPercent": 0.14,
+        "duration": 82,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-24T04:37:58.105Z",
+        "isNightWatch": false
+      },
+      {
+        "videoId": "video_5040",
+        "category": "知识科普",
+        "watchPercent": 0.68,
+        "duration": 62,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-24T15:55:58.342Z",
+        "isNightWatch": false,
+        "comment": "收藏从未停止学习从未开始"
+      },
+      {
+        "videoId": "video_773",
+        "category": "知识科普",
+        "watchPercent": 0.75,
+        "duration": 441,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-27T19:38:02.735Z",
+        "isNightWatch": true,
+        "comment": "假的吧"
+      },
+      {
+        "videoId": "video_5436",
+        "category": "知识科普",
+        "watchPercent": 0.48,
+        "duration": 126,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2026-01-01T06:12:21.557Z",
+        "isNightWatch": false,
+        "comment": "马住"
+      }
+    ],
+    "createdAt": "2025-08-17T03:07:40.550Z",
+    "_meta": {
+      "isNewUser": false,
+      "isSilentUser": false,
+      "isActiveUser": false,
+      "isSinglePref": true,
+      "isNightOwl": false
+    }
+  },
+  {
+    "id": "user_009",
+    "nickname": "用户009",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=user_009",
+    "personaType": "emp_ple",
+    "watchHistory": [
+      {
+        "videoId": "video_7715",
+        "category": "宠物萌宠",
+        "watchPercent": 0.32,
+        "duration": 22,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-01T18:14:35.784Z",
+        "isNightWatch": true,
+        "comment": "顶不住"
+      },
+      {
+        "videoId": "video_5962",
+        "category": "宠物萌宠",
+        "watchPercent": 0.38,
+        "duration": 57,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-03T19:13:54.040Z",
+        "isNightWatch": true,
+        "comment": "别发了"
+      },
+      {
+        "videoId": "video_2928",
+        "category": "宠物萌宠",
+        "watchPercent": 0.29,
+        "duration": 40,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-10T05:32:39.237Z",
+        "isNightWatch": false,
+        "comment": "这..."
+      },
+      {
+        "videoId": "video_1497",
+        "category": "社会议题",
+        "watchPercent": 0.79,
+        "duration": 12,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-11T16:41:16.459Z",
+        "isNightWatch": true
+      },
+      {
+        "videoId": "video_283",
+        "category": "新闻资讯",
+        "watchPercent": 0.42,
+        "duration": 26,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-14T14:31:36.781Z",
+        "isNightWatch": false,
+        "comment": "等后续"
+      },
+      {
+        "videoId": "video_1972",
+        "category": "美食探店",
+        "watchPercent": 0.68,
+        "duration": 53,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-16T06:51:37.244Z",
+        "isNightWatch": false,
+        "comment": "看饿了"
+      },
+      {
+        "videoId": "video_3565",
+        "category": "音乐MV",
+        "watchPercent": 0.18,
+        "duration": 18,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-17T16:08:37.279Z",
+        "isNightWatch": true
+      },
+      {
+        "videoId": "video_3284",
+        "category": "音乐MV",
+        "watchPercent": 0.96,
+        "duration": 90,
+        "liked": true,
+        "commented": true,
+        "watchedAt": "2025-12-20T18:18:33.837Z",
+        "isNightWatch": true,
+        "comment": "耳朵怀孕"
+      },
+      {
+        "videoId": "video_6332",
+        "category": "游戏直播",
+        "watchPercent": 0.52,
+        "duration": 110,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-22T12:09:51.874Z",
+        "isNightWatch": false,
+        "comment": "这也能输"
+      },
+      {
+        "videoId": "video_4162",
+        "category": "知识科普",
+        "watchPercent": 0.77,
+        "duration": 156,
+        "liked": true,
+        "commented": true,
+        "watchedAt": "2025-12-27T13:01:02.642Z",
+        "isNightWatch": false,
+        "comment": "我就不一样"
+      }
+    ],
+    "createdAt": "2025-11-01T03:07:40.551Z",
+    "_meta": {
+      "isNewUser": false,
+      "isSilentUser": false,
+      "isActiveUser": false,
+      "isSinglePref": false,
+      "isNightOwl": true
+    }
+  },
+  {
+    "id": "user_010",
+    "nickname": "用户010",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=user_010",
+    "personaType": "pleasure",
+    "watchHistory": [
+      {
+        "videoId": "video_8607",
+        "category": "宠物萌宠",
+        "watchPercent": 0.45,
+        "duration": 18,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-10T17:48:24.717Z",
+        "isNightWatch": true,
+        "comment": "想要"
+      },
+      {
+        "videoId": "video_718",
+        "category": "美食探店",
+        "watchPercent": 0.62,
+        "duration": 133,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-10T21:49:57.981Z",
+        "isNightWatch": true,
+        "comment": "我选择死亡"
+      },
+      {
+        "videoId": "video_6753",
+        "category": "宠物萌宠",
+        "watchPercent": 0.38,
+        "duration": 30,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-12T17:32:40.217Z",
+        "isNightWatch": true,
+        "comment": "鉴定为"
+      },
+      {
+        "videoId": "video_2193",
+        "category": "游戏直播",
+        "watchPercent": 0.19,
+        "duration": 15,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-20T17:33:47.600Z",
+        "isNightWatch": true,
+        "comment": "听君一席话如听一席话"
+      },
+      {
+        "videoId": "video_7217",
+        "category": "教程技能",
+        "watchPercent": 0.58,
+        "duration": 172,
+        "liked": true,
+        "commented": true,
+        "watchedAt": "2025-12-22T17:07:00.979Z",
+        "isNightWatch": true,
+        "comment": "还行"
+      },
+      {
+        "videoId": "video_5841",
+        "category": "游戏直播",
+        "watchPercent": 0.52,
+        "duration": 58,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-25T17:17:00.272Z",
+        "isNightWatch": true,
+        "comment": "没意思"
+      },
+      {
+        "videoId": "video_9558",
+        "category": "游戏直播",
+        "watchPercent": 0.22,
+        "duration": 179,
+        "liked": false,
+        "commented": true,
+        "watchedAt": "2025-12-29T07:22:10.632Z",
+        "isNightWatch": false,
+        "comment": "来了来了"
+      },
+      {
+        "videoId": "video_039",
+        "category": "游戏直播",
+        "watchPercent": 0.51,
+        "duration": 178,
+        "liked": false,
+        "commented": false,
+        "watchedAt": "2025-12-31T21:22:37.548Z",
+        "isNightWatch": true
+      }
+    ],
+    "createdAt": "2025-10-31T03:07:40.551Z",
+    "_meta": {
+      "isNewUser": false,
+      "isSilentUser": false,
+      "isActiveUser": false,
+      "isSinglePref": false,
+      "isNightOwl": true
+    }
+  }
+]
